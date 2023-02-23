@@ -85,3 +85,14 @@ All my projects are also available to view on my portfolio website.
 #### Github link found here - [github.com]( https://grahamwilliamson234.github.io/my_quiz)
 #### Live link found here - [project2.grahamwilliamson.ie](https://project2.grahamwilliamson.ie)
 
+## Clone Repository
+The project started to be developed by cloning the mock terminal repository provided by the Code Institute. The cloning phase of the project is as follows:
+
+Go to the GitHub repository to be cloned. Click the 'Use this template' text and and then click 'Create a new repository' in the dropdown menu that opens.
+
+The following will open on a new page. After specifying the repository name, you can create the repository without writing a description. The new repository will be created automatically.
+
+Then, if you want, you can open with the GitPod or clone it to your computer and work on locally. Since I am running locally, I will explain how I cloned it to the computer. As in the first step, we press the 'Code' button, open the dropdown menu and copy the link indicated by the arrow.
+
+Then, we open the terminal application we use from the computer and clone the repository to our computer with the 'git clone -link to be cloned-' command. Then you can develope your work using the source-code editor of your choice.
+
