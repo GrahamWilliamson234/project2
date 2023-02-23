@@ -96,3 +96,7 @@ Then, if you want, you can open with the GitPod or clone it to your computer and
 
 Then, we open the terminal application we use from the computer and clone the repository to our computer with the 'git clone -link to be cloned-' command. Then you can develope your work using the source-code editor of your choice.
 
+## Fork GitHub Repository
+
+To fork a GitHub repo, see the [Fork a GitHub repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) documentation.
+
