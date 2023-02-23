@@ -82,8 +82,8 @@ All my projects are also available to view on my portfolio website.
 <li>When the master branch has been selected, the page will refresh ti indicate the successful deployment.</li>
 </ol>
 
-#### Github link found here - [github.com]( https://grahamwilliamson234.github.io/my_quiz)
-#### Live link found here - [project2.grahamwilliamson.ie](https://project2.grahamwilliamson.ie)
+#### Github link found here - [github.com](https://grahamwilliamson234.github.io/project2/)
+#### Live link found here - [project2.grahamwilliamson.ie](http://project2.grahamwilliamson.ie)
 
 ## Clone Repository
 The project started to be developed by cloning the mock terminal repository provided by the Code Institute. The cloning phase of the project is as follows:
