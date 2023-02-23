@@ -59,3 +59,16 @@ this page also includes a Start Again button to return you to the start page.
 <img title="Results page Page" alt="Quiz results" src="assets/images/leaderboard_screen.jpg">
 </div>
 
+## <b>Favicon:</b>
+To finish off the design of this website, I added a favicon of a cartoon brain as a sign of intellegence with a dash of fun.
+
+<div>
+<img title="favicon" alt="Website favicon" src="assets/images/favicon.png";>
+</div>
+
+
+# Location
+
+All my projects are also available to view on my portfolio website.
+[www.grahamwilliamson.ie](http://grahamwilliamson.ie)
+
