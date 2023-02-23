@@ -73,3 +73,23 @@ function saveScore() {
     scores.sort((a, b) => b.score - a.score);
     localStorage.setItem('scores', JSON.stringify(scores));
   }
+// show scores //
+function showScores() {
+    let scores = localStorage.getItem('scores');
+    if (!scores) {
+      scores = [];
+    } else {
+      scores = JSON.parse(scores);
+    }
+    scoresEl.innerHTML = '';
+    scores.forEach(scoreObj => {
+      const li = document.createElement('li');
+      li.innerText = `${scoreObj.name}: ${scoreObj.score}`;
+      scoresEl.appendChild(li);
+    });
+  }
+  
+  submitBtn.addEventListener('click', checkAnswer);
+  
+  getQuestions();
+  
