@@ -141,3 +141,20 @@ To ensure this tasks efficiency, the functionality of the code was check regular
 
 The only bug remaining is an encoding problem with the question bank from Open Trivia Database [Website](https://opentdb.com/). I have looked for the solution on multiple sources such as stackoverflow [Website](https://stackoverflow.com/questions/59920487/opentdb-weird-characters). This link provided code to solve the problem, unfortunately I was unsuccessful in using this code. Bug remains.
 
+# Tools
+
+This project used HTML5, CSS3 and Javascript.
+<div>
+<img title="languages" alt="HTML, CSS and Javascript logos" src="assets/images/tools.png">
+</div>
+
+
+# Course
+
+## Professional Diploma in Full Stack Software Development
+### University College Dublin [Website](https://www.ucd.ie/professionalacademy/why-ucd-professional-academy/)
+
+### Code Institute [Website](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288169&hsa_ad=595155717776&hsa_src=g&hsa_tgt=kwd-342001843376&hsa_kw=code%20institute&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwnvOaBhDTARIsAJf8eVOdV0BAxB5DwdTrFB9AvR5tJ73tLtvCsSeHDsSSq9e1gNbiXiNLTZQaAkyKEALw_wcB)
+
+<br>
+
