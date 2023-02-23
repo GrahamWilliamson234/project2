@@ -45,3 +45,17 @@ Green Play Button.
 <img title="Main Page" alt="main quiz web page" src="assets/images/green_start_btn.jpg";>
 </div>
 
+## <b> Questions Page:</b>
+The question page has the same background as the main page with the question box centered. All questions are provided by Open Trivia Database [Website](https://opentdb.com/). This box will contain a question and multiple choice answers. When you select your answer, click the Submit button to be taken to the next question.<hr>
+All data provided by the API is available under the Creative Commons Attribution-ShareAlike 4.0 International License.<hr>
+<div>
+<img title="Question Page" alt="Question and multiple choice answers" src="assets/images/PC_screen.jpg";>
+</div>
+
+## <b>Leaderboard Page:</b>
+The leaderboard page will show your score and your standings,
+this page also includes a Start Again button to return you to the start page.
+<div>
+<img title="Results page Page" alt="Quiz results" src="assets/images/leaderboard_screen.jpg">
+</div>
+
