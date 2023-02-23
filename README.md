@@ -72,3 +72,16 @@ To finish off the design of this website, I added a favicon of a cartoon brain a
 All my projects are also available to view on my portfolio website.
 [www.grahamwilliamson.ie](http://grahamwilliamson.ie)
 
+# Deployment
+
+### The site was deployed to Github. The step are as follows:
+<ol>
+<li>In the Github repository, go to setting.</li>
+<li>In settings go to the pages tab, located on the left.</li>
+<li>Under source, select the branch to master and click save.</li>
+<li>When the master branch has been selected, the page will refresh ti indicate the successful deployment.</li>
+</ol>
+
+#### Github link found here - [github.com]( https://grahamwilliamson234.github.io/my_quiz)
+#### Live link found here - [project2.grahamwilliamson.ie](https://project2.grahamwilliamson.ie)
+
