@@ -51,4 +51,12 @@ function checkAnswer() {
       showQuestion();
     }
   }
+  // end game //
+function endGame() {
+    questionEl.innerText = `Your score: ${score}`;
+    choicesEl.innerHTML = '';
+    submitBtn.disabled = true;
+    saveScore();
+    showScores();
+  }
   
