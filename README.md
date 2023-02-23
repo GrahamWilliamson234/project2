@@ -158,3 +158,14 @@ This project used HTML5, CSS3 and Javascript.
 
 <br>
 
+# Books
+
+### Mike McGrath - HTML, CSS & Javascript (Special Edition) [Amazon](https://www.amazon.co.uk/HTML-CSS-JavaScript-easy-steps/dp/184078878X/ref=asc_df_184078878X/?tag=googshopuk-21&linkCode=df0&hvadid=430989472982&hvpos=&hvnetw=g&hvrand=4859645684734044070&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20487&hvtargid=pla-921516488553&psc=1&th=1&psc=1&tag=&ref=&adgrpid=97419294662&hvpone=&hvptwo=&hvadid=430989472982&hvpos=&hvnetw=g&hvrand=4859645684734044070&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20487&hvtargid=pla-921516488553)
+
+### Jon Duckett - HTML & CSS, design and build websites [Amazon](https://www.amazon.co.uk/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=asc_df_1118008189/?tag=googshopuk-21&linkCode=df0&hvadid=310831942794&hvpos=&hvnetw=g&hvrand=9245307914514372249&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20487&hvtargid=pla-425752469964&psc=1&th=1&psc=1)
+
+### Jon Duckett - JAVASCRIPT & JQUERY interactive front-end web development [Amazon](https://www.amazon.co.uk/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+
+
+<br>
+
