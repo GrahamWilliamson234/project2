@@ -33,4 +33,22 @@ function showQuestion() {
       choicesEl.appendChild(label);
     });
   }
+  // check question //
+function checkAnswer() {
+    const selectedChoice = document.querySelector('input[name="choice"]:checked');
+    if (!selectedChoice) {
+      return;
+    }
+    const selectedAnswer = selectedChoice.value;
+    const correctAnswer = questions[currentQuestion].correct_answer;
+    if (selectedAnswer === correctAnswer) {
+      score++;
+    }
+    currentQuestion++;
+    if (currentQuestion >= questions.length) {
+      endGame();
+    } else {
+      showQuestion();
+    }
+  }
   
