@@ -100,3 +100,28 @@ Then, we open the terminal application we use from the computer and clone the re
 
 To fork a GitHub repo, see the [Fork a GitHub repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) documentation.
 
+# Validation
+To ensure the functionality of this project I had 4 tasks.
+1. HTML Validation
+<input type="checkbox" input checked>
+2. CSS Validation
+<input type="checkbox" input checked>
+3. JSHint Check
+<input type="checkbox" input checked>
+4. Lighthouse Accessibility
+<input type="checkbox" input checked>
+
+The results of these test are shown below:
+<ul>
+<li>HTML <ul style="list-style-type:circle"><li>No errors returned on W3C HTML validator.</li></ul>
+</li>
+<li>CSS <ul style="list-style-type:circle"><li>No errors returned on W3C CSS validator.
+</li></ul>
+</li>
+<li>Javascript <ul style="list-style-type:circle"><li>No errors returned on JSHint validator.</li></ul>
+</li>
+<li>Accessibility <ul style="list-style-type:circle"><li>On website inspection, lighthouse results are shown below:</li></ul>
+</li>
+</ul>
+<img title="lighthouse" alt="lighthouse result" src="assets/images/lighthouse.jpg";>
+
