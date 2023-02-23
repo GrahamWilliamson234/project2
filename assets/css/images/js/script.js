@@ -92,4 +92,12 @@ function showScores() {
   submitBtn.addEventListener('click', checkAnswer);
   
   getQuestions();
+  // rest quiz //
+function resetQuiz() {
+    score = 0;
+    currentQuestion = 0;
+    questions = [];
+    showQuestion();
+    submitBtn.disabled = false;
+  }
   
