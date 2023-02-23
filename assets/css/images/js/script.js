@@ -15,3 +15,22 @@ async function getQuestions() {
   questions = data.results;
   showQuestion();
 }
+// show questions //
+function showQuestion() {
+    const question = questions[currentQuestion];
+    questionEl.innerText = question.question;
+  
+    const choices = question.incorrect_answers.concat(question.correct_answer);
+    choicesEl.innerHTML = '';
+    choices.forEach(choice => {
+      const label = document.createElement('label');
+      const input = document.createElement('input');
+      input.type = 'radio';
+      input.name = 'choice';
+      input.value = choice;
+      label.appendChild(input);
+      label.appendChild(document.createTextNode(choice));
+      choicesEl.appendChild(label);
+    });
+  }
+  
