@@ -169,3 +169,26 @@ This project used HTML5, CSS3 and Javascript.
 
 <br>
 
+# Acknowledgement
+
+### The WebShala [YouTube](https://www.youtube.com/@TheWebShala)
+For the initial idea for this project, I relied heavily on this channel for assistance on the Javascript section of this project.
+### Mike Dane [Website](https://www.mikedane.com/) [YouTube](https://www.youtube.com/c/GiraffeAcademy)
+I am a big follower of this channel, my go to for inspiration. Mike Dane, in my opinion, is a great teacher.
+### W3 School [Website](https://www.w3schools.com/js/default.asp)
+W3 Schools web-site has it all, I would have benn lost many times without there help.
+
+As well as the Code Institute course content, and as with my first project, I got inspiration from some
+online tutorials and video's and also books such as  books from Mike McGraths and video tutorials from Mike Dane.
+
+At times I found Javascript challenging and I needed to dig deep into my resourses, thankfully there are so many online tutorials out there to help.
+
+The India based YouTube channel'The WebShala'was of great help on the project with so many helpful and inspiring tutorials. My thanks to The WebShala.
+
+### Font Awesome [Website](https://fontawesome.com/search)
+### Boxicons [Website](https://boxicons.com/)
+### Github [Website](https://github.com/)
+### Slack [Website](https://slack.com/intl/en-ie/)
+### stackoverflow [Website](https://stackoverflow.com/)
+
+
