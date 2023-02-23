@@ -59,4 +59,18 @@ function endGame() {
     saveScore();
     showScores();
   }
+  // save game //
+function saveScore() {
+    const name = prompt('Leaderboard - Enter your name:');
+    const scoreObj = { name, score };
+    let scores = localStorage.getItem('scores');
+    if (scores) {
+      scores = JSON.parse(scores);
+    } else {
+      scores = [];
+    }
+    scores.push();
+    scores.sort((a, b) => b.score - a.score);
+    localStorage.setItem('scores', JSON.stringify(scores));
+  }
   
