@@ -69,8 +69,7 @@ function saveScore() {
     } else {
       scores = [];
     }
-    scores.push();
+    scores.push(scoreObj);
     scores.sort((a, b) => b.score - a.score);
     localStorage.setItem('scores', JSON.stringify(scores));
   }
-  
