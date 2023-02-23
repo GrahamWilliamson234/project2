@@ -125,3 +125,19 @@ The results of these test are shown below:
 </ul>
 <img title="lighthouse" alt="lighthouse result" src="assets/images/lighthouse.jpg";>
 
+# Testing 
+Code continuously tested my throught the process.
+<ul>
+<li>Each step tested to ensure viability.</li>
+<li>I have played the game several times to check its useability.</li>
+</ul>
+
+#### Quiz tested on multiple browers such as Chrome, Firefox and Edge, the only issue is relating to question bank api - see Bugs.
+
+## Bugs
+
+As each bit of code was tested throughout, any bugs found were corrected.
+To ensure this tasks efficiency, the functionality of the code was check regularly.
+
+The only bug remaining is an encoding problem with the question bank from Open Trivia Database [Website](https://opentdb.com/). I have looked for the solution on multiple sources such as stackoverflow [Website](https://stackoverflow.com/questions/59920487/opentdb-weird-characters). This link provided code to solve the problem, unfortunately I was unsuccessful in using this code. Bug remains.
+
