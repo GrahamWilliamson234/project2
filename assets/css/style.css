@@ -25,3 +25,12 @@ body{
     display: grid;
     align-items: center;
 }
+body h1 {
+	font-size: 110px;
+}
+*{
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+	outline: none;
+}
