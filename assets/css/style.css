@@ -217,3 +217,15 @@ body h1 {
 		overflow: scroll;
 	}
 }
+@media (max-width: 450px){
+	.start_btn{
+		top: 44%;
+		left: 28%;
+	}
+	.start_btn:hover {
+		background-color: green;
+	}
+	.copyright{
+		font-size: 15px;
+	}
+}
