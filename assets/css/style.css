@@ -88,3 +88,16 @@ body h1 {
 	color: white;
 	border-color: rgba(255, 255, 255, 0.813);
 }
+#start {
+	font-size: 25px;
+	background-color: var(--second-big-color);
+	border: 5px solid var(--second-color);
+	padding: 5px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+#start:hover {
+	background-color: black;
+	color: white;
+	border-color: rgba(255, 255, 255, 0.788);
+}
