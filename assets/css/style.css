@@ -328,3 +328,20 @@ body h1 {
 		font-size: 20px;
 	}
 }
+@media (max-width: 330px){
+	.start_btn {
+		background-color: red;
+		position: absolute;
+		color: white;
+		top: 42%;
+		left: 22.5%;
+		height: 180px;
+		width: 180px;
+	}
+	body{
+		margin-top: -50px;
+		margin-bottom: 80px;
+		font-size: 15px;
+		text-align: top;
+	}
+}
