@@ -128,3 +128,19 @@ body h1 {
     align-items: center;
     justify-content: space-between;
 }
+.icon a{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    width: 75px;
+    height: 75px;
+	font-weight: 400;
+    margin: 0px 5px;
+    color: white;
+    font-size: 2.2rem;
+    transition: all .40s;
+}
+.icon a:hover{
+    transform: translateY(-20px);
+}
