@@ -1,0 +1,27 @@
+:root{
+    --big-color: rgb(221, 214, 214);
+    --second-big-color: #f9f9f9;
+    --text-color: black;
+    --second-color: rgba(110, 110, 99, 0.673);
+    --main-color: chocolate;
+    --other-color: #333;
+}
+body{
+	margin: 0;
+	font-size: 22px;
+	text-align: center;
+	color: var(--big-color);
+	padding-top: 5px;
+	background-color: chocolate;
+	font-family: 'Cinzel', serif;	
+	background-image: url(../images/library_1.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	padding-left: 2px;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    display: grid;
+    align-items: center;
+}
