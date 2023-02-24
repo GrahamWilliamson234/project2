@@ -144,3 +144,44 @@ body h1 {
 .icon a:hover{
     transform: translateY(-20px);
 }
+
+/*css for smaller screens*/
+
+@media (max-width: 1300px){
+	body h1 {
+		font-size: 50px;
+	}
+	.start_btn{
+		top: 33%;
+		left: 43%;
+		height: 180px;
+		width: 180px;
+	}
+	.start_btn:hover {
+		background-color: green;
+	}
+	body{
+		margin: 0;
+		font-size: 15px;
+		text-align: center;
+	}
+	.container {
+		max-width: 500px;
+		font-size: 12px;
+		margin: 0 auto;
+	}
+	.leaderboard {
+		width: 500px;
+		max-height: 170px;
+		overflow: scroll;
+	}
+	#submit {
+		font-size: 15px;
+	}
+	#start {
+		font-size: 15px;
+	}
+	.copyright {
+		font-size: 15px;
+	}
+}
