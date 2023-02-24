@@ -34,3 +34,25 @@ body h1 {
 	padding:0;
 	outline: none;
 }
+.start_btn {
+	background-color: red;
+	position: absolute;
+	color: white;
+	top: 45%;
+	left: 45%;
+	height: 200px;
+	width: 200px;
+	border: 10px solid white;
+	border-radius: 100px;
+	font-size: 100px;
+}
+.start_btn:hover {
+	background-color: green;
+}
+.btn {
+	color: var(--second-big-color);
+	background-color: transparent;
+	border: none;
+	font-size: 50px;
+	cursor: pointer;
+}
