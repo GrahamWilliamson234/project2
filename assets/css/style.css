@@ -56,3 +56,12 @@ body h1 {
 	font-size: 50px;
 	cursor: pointer;
 }
+.container {
+	background-color: var(--second-color);
+	max-width: 800px;
+	max-height: fit-content;
+	margin: 0 auto;
+}
+.quiz {
+	margin: 20px 0;
+}
