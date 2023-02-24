@@ -75,3 +75,16 @@ body h1 {
 #choices label {
 	margin: 5px 0;
 }
+#submit {
+	font-size: 25px;
+	border: 5px solid var(--second-color);
+	margin-top: 20px;
+	padding: 8px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+#submit:hover {
+	background-color: black;
+	color: white;
+	border-color: rgba(255, 255, 255, 0.813);
+}
