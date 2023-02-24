@@ -65,3 +65,13 @@ body h1 {
 .quiz {
 	margin: 20px 0;
 }
+#choices {
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+	padding-left: 40%;
+	padding-top: 15px;
+}
+#choices label {
+	margin: 5px 0;
+}
