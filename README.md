@@ -37,6 +37,18 @@ My code for this project was originally heavily influenced by The WebShala [YouT
 
 I hope you have fun.
 
+# Aims.
+
+My aim for this project was to create a quiz that I would enjoy playing to 
+ensure a positive user experience in challenging the user to test there knowledge and to achive the highest score on the leaderboard.
+
+# Flow-Chart.
+
+A flow chart for this quiz created with the help of Lucid [website](https://lucid.app/documents#/dashboard)
+<div>
+<img title="FlowChart" alt="flow chart outling the quiz" src="assets/images/flow_chart.jpeg";>
+</div>
+
 # Design.
 
 For this project I decided to do a quiz as I love a good pub quiz. Quiz's in general can be very enjoyable and hopefully I acheived that. The color scheme for this website is very much tied in with the background image, the chocolate colored font adding some warmth with the light grey adding a bit of contrast. The font used on this project is <u>Cinzel</u>, I choosed this font as I think it adds some sharpness to the overall look. My process of constructing this project was to source all images, including favicon, draw up a mock layout then begin with the HTML. To dress everything up, CSS was added and to make it all dance, Javascript provided all the glitz and glamour.
