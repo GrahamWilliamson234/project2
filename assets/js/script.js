@@ -10,11 +10,16 @@ const submitBtn = document.getElementById('submit');
 const scoresEl = document.getElementById('scores');
 // get questions //
 async function getQuestions() {
-  const response = await fetch(endpoint);
-  const data = await response.json();
-  questions = data.results;
-  showQuestion();
+  try {
+    const response = await fetch(endpoint);
+    const data = await response.json();
+    questions = data.results;
+    showQuestion();
+  } catch (error) {
+    console.error(error);
+  }
 }
+
 // show questions //
 function showQuestion() {
     const question = questions[currentQuestion];
@@ -33,7 +38,7 @@ function showQuestion() {
       choicesEl.appendChild(label);
     });
   }
-  // check question //
+// check question //
 function checkAnswer() {
     const selectedChoice = document.querySelector('input[name="choice"]:checked');
     if (!selectedChoice) {
@@ -51,7 +56,7 @@ function checkAnswer() {
       showQuestion();
     }
   }
-  // end game //
+// end game //
 function endGame() {
     questionEl.innerText = `Your score: ${score}`;
     choicesEl.innerHTML = '';
@@ -59,7 +64,7 @@ function endGame() {
     saveScore();
     showScores();
   }
-  // save game //
+// save game //
 function saveScore() {
     const name = prompt('Leaderboard - Enter your name:');
     const scoreObj = { name, score };
@@ -92,12 +97,12 @@ function showScores() {
   submitBtn.addEventListener('click', checkAnswer);
   
   getQuestions();
-  // rest quiz //
+// rest quiz //
 function resetQuiz() {
     score = 0;
     currentQuestion = 0;
     questions = [];
     showQuestion();
     submitBtn.disabled = false;
-  }
+}
   
