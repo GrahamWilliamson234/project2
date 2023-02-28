@@ -58,7 +58,7 @@ For this project I decided to do a quiz as I love a good pub quiz. Quiz's in gen
 </div>
 <hr>
 
-# Main Page.
+# Main-Page.
 The man page has a lovely background of the Trinity College Library, imaged sourced from Unsplash [Website](https://unsplash.com/s/photos/trinity-college).
 <div>
 <img title="Main Page" alt="main quiz web page" src="assets/images/library_1.jpg";>
@@ -76,21 +76,21 @@ Green Play Button.
 <img title="Main Page" alt="main quiz web page" src="assets/images/green_start_btn.jpg";>
 </div>
 
-## <b> Questions Page:</b>
+# Questions:
 The question page has the same background as the main page with the question box centered. All questions are provided by Open Trivia Database [Website](https://opentdb.com/). This box will contain a question and multiple choice answers. When you select your answer, click the Submit button to be taken to the next question.<hr>
 All data provided by the API is available under the Creative Commons Attribution-ShareAlike 4.0 International License.<hr>
 <div>
 <img title="Question Page" alt="Question and multiple choice answers" src="assets/images/PC_screen.jpg";>
 </div>
 
-## <b>Leaderboard Page:</b>
+# Leaderboard:
 The leaderboard page will show your score and your standings,
 this page also includes a Start Again button to return you to the start page.
 <div>
 <img title="Results page Page" alt="Quiz results" src="assets/images/leaderboard_screen.jpg">
 </div>
 
-## <b>Favicon:</b>
+# Favicon:
 To finish off the design of this website, I added a favicon of a cartoon brain as a sign of intellegence with a dash of fun.
 
 <div>
@@ -116,7 +116,7 @@ All my projects are also available to view on my portfolio website.
 #### Github link found here - [github.com](https://grahamwilliamson234.github.io/project2/)
 #### Live link found here - [project2.grahamwilliamson.ie](http://project2.grahamwilliamson.ie)
 
-## Clone Repository
+# Clone-Repository
 The project started to be developed by cloning the mock terminal repository provided by the Code Institute. The cloning phase of the project is as follows:
 
 Go to the GitHub repository to be cloned. Click the 'Use this template' text and and then click 'Create a new repository' in the dropdown menu that opens.
@@ -127,30 +127,9 @@ Then, if you want, you can open with the GitPod or clone it to your computer and
 
 Then, we open the terminal application we use from the computer and clone the repository to our computer with the 'git clone -link to be cloned-' command. Then you can develope your work using the source-code editor of your choice.
 
-## Fork GitHub Repository
+# Fork-Repository
 
 To fork a GitHub repo, see the [Fork a GitHub repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) documentation.
-
-# Validation
-To ensure the functionality of this project I had 4 tasks.
-1. HTML Validation
-<input type="checkbox" input checked>
-<li>HTML <ul style="list-style-type:circle"><li>No errors returned on W3C HTML validator.</li></ul>
-
-2. CSS Validation
-<input type="checkbox" input checked>
-<li>CSS <ul style="list-style-type:circle"><li>No errors returned on W3C CSS validator.</li></ul>
-
-3. JSHint Check
-<input type="checkbox" input checked>
-<li>Javascript <ul style="list-style-type:circle"><li>No errors returned on JSHint validator.</li></ul>
-
-4. Lighthouse Accessibility
-<input type="checkbox" input checked>
-<li>Accessibility <ul style="list-style-type:circle"><li>On website inspection, lighthouse results are shown below:</li></ul>
-</li>
-</ul>
-<img title="lighthouse" alt="lighthouse result" src="assets/images/lighthouse.jpg";>
 
 
 # Testing 
@@ -185,6 +164,7 @@ This project used HTML5, CSS3 and Javascript.
 ### Code Institute [Website](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288169&hsa_ad=595155717776&hsa_src=g&hsa_tgt=kwd-342001843376&hsa_kw=code%20institute&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwnvOaBhDTARIsAJf8eVOdV0BAxB5DwdTrFB9AvR5tJ73tLtvCsSeHDsSSq9e1gNbiXiNLTZQaAkyKEALw_wcB)
 
 <br>
+
 
 # Books
 
