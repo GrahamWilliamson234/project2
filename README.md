@@ -2,9 +2,23 @@
 
 <ul class="navlist">
                 <li><a href="#my project 2">My Project 2</a></li>
+                <ul>
+                    <li><a href="#aims">Aims</a></li>
+                    <li><a href="#flow-chart">Flow Chart</a></li>
+                </ul>
                 <li><a href="#design">Design</a></li>
+                <ul>
+                    <li><a href="#main-page">Main Page</a></li>
+                    <li><a href="#questions">Questions Page</a></li>
+                    <li><a href="#leaderboard">Leaderboard Page</a></li>
+                    <li><a href="#favicon">Favicon</a></li>
+                </ul>
                 <li><a href="#location">Location</a></li>
                 <li><a href="#deployment">Deployment</a></li>
+                <ul>
+                    <li><a href="#clone-repository">Clone Repository</a></li>
+                    <li><a href="#fork-repository">Fork Repository</a></li>
+                </ul>
                 <li><a href="#validation">Validation</a></li>
                 <li><a href="#testing">Testing</a></li>
                 <li><a href="#tools">Tools</a></li>
