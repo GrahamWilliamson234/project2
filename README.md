@@ -109,26 +109,23 @@ To fork a GitHub repo, see the [Fork a GitHub repo](https://docs.github.com/en/g
 To ensure the functionality of this project I had 4 tasks.
 1. HTML Validation
 <input type="checkbox" input checked>
+<li>HTML <ul style="list-style-type:circle"><li>No errors returned on W3C HTML validator.</li></ul>
+
 2. CSS Validation
 <input type="checkbox" input checked>
+<li>CSS <ul style="list-style-type:circle"><li>No errors returned on W3C CSS validator.</li></ul>
+
 3. JSHint Check
 <input type="checkbox" input checked>
+<li>Javascript <ul style="list-style-type:circle"><li>No errors returned on JSHint validator.</li></ul>
+
 4. Lighthouse Accessibility
 <input type="checkbox" input checked>
-
-The results of these test are shown below:
-<ul>
-<li>HTML <ul style="list-style-type:circle"><li>No errors returned on W3C HTML validator.</li></ul>
-</li>
-<li>CSS <ul style="list-style-type:circle"><li>No errors returned on W3C CSS validator.
-</li></ul>
-</li>
-<li>Javascript <ul style="list-style-type:circle"><li>No errors returned on JSHint validator.</li></ul>
-</li>
 <li>Accessibility <ul style="list-style-type:circle"><li>On website inspection, lighthouse results are shown below:</li></ul>
 </li>
 </ul>
 <img title="lighthouse" alt="lighthouse result" src="assets/images/lighthouse.jpg";>
+
 
 # Testing 
 Code continuously tested my throught the process.
