@@ -103,7 +103,8 @@ body h1 {
 }
 .leaderboard {
 	width: 800px;
-	height: 260px;
+	height: 300px;
+	max-height: 320px;
 	margin-top: 30px;
 	border: 5px solid var(--second-big-color);
 	border-radius: 10px;
@@ -225,6 +226,11 @@ body h1 {
 	.start_btn:hover {
 		background-color: green;
 	}
+	#start {
+		font-size: 15px;
+		background-color: var(--second-big-color);
+		border: 1px solid var(--second-color);
+	}
 	.copyright{
 		font-size: 15px;
 	}
@@ -271,6 +277,8 @@ body h1 {
 	}
 	#start {
 		font-size: 10px;
+		background-color: var(--second-big-color);
+		border: 1px solid var(--second-color);
 	}
 	.copyright{
 		font-size: 10px;
@@ -285,7 +293,7 @@ body h1 {
 		position: absolute;
 		color: white;
 		top: 42%;
-		left: 27%;
+		left: 25.5%;
 		height: 180px;
 		width: 180px;
 	}
@@ -311,7 +319,7 @@ body h1 {
 	}
 	.leaderboard {
 		width: 240px;
-		height: 80px;
+		height: 160px;
 		max-height: 300px;
 		overflow: scroll;
 	}
@@ -323,25 +331,33 @@ body h1 {
 	}
 	#start {
 		font-size: 10px;
+		background-color: var(--second-big-color);
+		border: 1px solid var(--second-color);
 	}
 	.copyright{
 		font-size: 20px;
 	}
 }
 @media (max-width: 330px){
+	body h1 {
+		font-size: 40px;
+	}
 	.start_btn {
 		background-color: red;
 		position: absolute;
 		color: white;
 		top: 42%;
-		left: 22.5%;
-		height: 180px;
-		width: 180px;
+		left: 24.5%;
+		height: 165px;
+		width: 165px;
 	}
 	body{
 		margin-top: -50px;
 		margin-bottom: 80px;
 		font-size: 15px;
 		text-align: top;
+	}
+	.copyright{
+		font-size: 15px;
 	}
 }
